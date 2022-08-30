@@ -13,18 +13,16 @@ author_profile: true
 
 ---
 
-- [E-MANAFA: Energy Monitoring and ANAlysis tool For Android]()  
-Rui Rua, João Saraiva  
-In The 5th International Workshop on Advances in Mobile App Analysis  
-(Under Review)
-
----
-
-
-- **[Journal]** "A large-scale empirical study on mobile performance: Energy, Run-time and Memory"  
+- **[Journal]** [A large-scale empirical study on mobile performance: Energy, Run-time and Memory]()  
 Rui Rua, Rui Pereira, João Saraiva  
 In Empirical Software Engineering (2022)  
 (Under review)
+
+---
+
+- [E-MANAFA: Energy Monitoring and ANAlysis tool For Android](https://github.com/RRua/rrua.github.io/blob/master/_publications/ASEW_22_Manafa.pdf)  
+Rui Rua, João Saraiva  
+In The 5th International Workshop on Advances in Mobile App Analysis (A-Mobile)
 
 ---
 
