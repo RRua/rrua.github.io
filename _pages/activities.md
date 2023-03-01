@@ -9,17 +9,27 @@ author_profile: true
 
 ## Scientific Review and Sub-Review
 
+
+- IEEE Conference on Software Quality, Reliability and Security (QRS) – 2023
+- International Conference on ICT For Sustainability (ICT4S) - 2022
 - IEEE Conference on Software Quality, Reliability and Security (QRS) – 2019
 - International Workshop on Green and Sustainable Software (GREENS) – 2018
-- International Conference on ICT For Sustainability (ICT4S'22) - 2022
+
 
 ## Program Commitee
+
+
+- International Conference on ICT For Sustainability (ICT4S'22) - Demonstrations and Posters Co-chair
+
+- IEEE/ACM International Conference on Software Engineering (ICSE) - SCORE contest PC member 2023
 
 - International Conference on ICT For Sustainability (ICT4S'22) - Demonstrations and Posters Co-chair
 
 ## Talks / Workshops
 
 - *[Sustrainable 2022](https://sustrainable.uniri.hr)* - Workshop: Energy Debt: Managing Consumption on Evolving Software
+
+- *Workshop:* Analyzing energy consumption on Mobile Devices (Coimbra, 2022)
 
 ## Participation / Attendance
 

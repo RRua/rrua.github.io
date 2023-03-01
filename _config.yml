@@ -84,7 +84,7 @@ author:
   avatar           : "profile.jpg"
   bio              : "Researcher @ HASLab/INESC TEC  <br><br/>  Ph.D. student @ MAP-i Programme <br><br/>  Invited Assistant Professor @ University of Minho"
   location         : "Braga, Portugal"
-  employer         : "Researcher @ HASLab/INESC TEC"
+  employer         : "HASLab/INESC TEC"
   googlescholar    : "https://scholar.google.pt/citations?hl=pt-PT&user=NvJ7KjYAAAAJ"
   email            : "rui.a.rua@inesctec.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -180,6 +180,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+    
   #portfolio:
   #  output: true
   #  permalink: /:collection/:path/
