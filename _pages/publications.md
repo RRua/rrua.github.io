@@ -12,6 +12,7 @@ author_profile: true
 ## 2023
 
 ---
+---
 
 - **[Journal]** [A large-scale empirical study on mobile performance: Energy, Run-time and Memory]()  
 Rui Rua, Rui Pereira, João Saraiva  
@@ -23,10 +24,13 @@ In Empirical Software Engineering (EMSE)
 Rui Rua, João Saraiva  
 In the 39th IEEE International Conference on Software Maintenance and Evolution
 
+---
+---
 
 
 ## 2022
 
+---
 ---
 
 - [E-MANAFA: Energy Monitoring and ANAlysis tool For Android](https://github.com/RRua/rrua.github.io/blob/master/_publications/ASEW_22_Manafa.pdf)  
@@ -39,12 +43,15 @@ In the 5th International Workshop on Advances in Mobile App Analysis (A-Mobile)
 Nelson Gonçalves, Rui Rua, Jácome Cunha, Rui Pereira, João Saraiva  
 In the 2022 Workshop on Resource AWareness of Systems and Society (RAW)
 
+---
+
 - **[Book Chapter]** Energy Debt: Foundations, techniques and Tools
 Marco Couto, Rui Rua, João Saraiva
 Lecture Notes in Computer Science (LNCS) - Sustrainable 2023 - **Submitted**
 
 ---
 ---
+
 ## 2021
 
 ---
