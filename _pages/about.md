@@ -6,8 +6,10 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+    
 ---
-I characterize myself as an inventive, innovative and hardworking person, with a strong spirit of initiative. I’m a builder and a doer. I’m always motivated to build proofs-of-concept applications and deeply explore new trends and technologies. As a researcher, I’m mostly focused on developing and improving existing software development techniques and producing knowledge aiming to optimize software products and respective source code.
+
+Welcome to my personal page. My name is Rui Rua and I'm currently a PhD student in the University of Minho, in the context of the MAP-I joint programme.  I characterize myself as an inventive, innovative and hardworking person, with a strong spirit of initiative. I’m a builder and a do'er. I’m always motivated to build proofs-of-concept applications and deeply explore new trends and technologies. As a researcher, I’m mostly focused on developing and improving existing software development techniques and producing knowledge aiming to optimize software products and respective source code.
 
 ## Latest news
 
@@ -39,3 +41,11 @@ I obtained my MSc degree in 2017, which was focused on Cryptography, Distributed
 - Mining Software Repositories;
 - Mobile Software development;
 - Distributed Systems.
+
+## Favorite Languages/Technologies:
+
+- Python;
+- JS/TS (React/React Native);
+- Java;
+- Bash;
+
