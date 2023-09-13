@@ -13,15 +13,19 @@ reetings, and welcome to my personal profile. My name is Rui Rua, and I am prese
 
 As a researcher, my primary focus centers on the advancement and refinement of extant software development methodologies. My overarching objective is the generation of knowledge geared towards enhancing software products and the respective source code. Through my work, I endeavor to optimize software development techniques, ultimately contributing to the evolution of this critical domain.
 
-## Latest news
+## Latest news (Last Update: Sept. 2023)
 
-**Feb '23:** I'm lecturing a Master's Degree Course in Software Engineering named "Topics of Software Development". The course is focused on cross-platform development techniques, mobile platform foundations and software design approaches. 
 
-**Jan '23:** I was invited to be a PC member of the SCORE contest @ ICSE 2023, to be held in Melbourne, Australia.
+**Sept '23:** I am honored to announce my forthcoming participation in the 39th IEEE International Conference on Software Maintenance and Evolution (ICSME '23), scheduled to take place in Bogotá, Colombia. My purpose in attending this prestigious event is twofold: to present a research paper and to augment my knowledge within the field.
 
-**Dec '22** I was invited to be a Demonstrations and Posters Session Chair @ ICT4S 2023, to be held in Rennes, France.
+**Sept '23:** I am pleased to share that my research paper, titled "PyAnaDroid: A fully-customizable execution pipeline for benchmarking Android Applications," has been recognized with the "Open Research Object" badge as part of the Artifact Evaluation Track and ROSE Festival at ICSME '23.
 
-**Dec '22** I've finished my 3 month-long research internship @ NII, Tokyo, Japan. During these few months, I've investigated and developed autonomous methodologies to analyze and predict cryptocurrency market movements.
+**Sept '23:** I had the privilege of participating in the Cerciras Training School 2023, which was conducted in Riga, Latvia. This distinguished event congregated an array of lectures and tutorials, focusing on topics encompassing Resource Awareness in Informatics, Software Engineering, Computer Engineering, and System Usage.
+
+**Aug 2023:** I am delighted to announce that my paper, "PyAnaDroid: A fully-customizable execution pipeline for benchmarking Android Applications," has been accepted in the Tool Demo track of ICSME 2023.
+
+**July 2023:**: I had the opportunity to attend the SusTrainable Summer School 2023, which was hosted in Coimbra, Portugal. This distinguished event featured a comprehensive program comprising lectures and tutorials, all centered around the pertinent theme of Sustainability within the realm of Information and Communication Technology (ICT).
+
 
 [View more...](https://rrua.github.io/news)
 
