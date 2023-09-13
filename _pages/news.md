@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 
-## News
 
 Sept '23: I am honored to announce my forthcoming participation in the 39th IEEE International Conference on Software Maintenance and Evolution (ICSME '23), scheduled to take place in Bogotá, Colombia. My purpose in attending this prestigious event is twofold: to present a research paper and to augment my knowledge within the field.
 
@@ -18,11 +17,10 @@ Aug 2023: I am delighted to announce that my paper, "PyAnaDroid: A fully-customi
 
 July 2023: I had the opportunity to attend the SusTrainable Summer School 2023, which was hosted in Coimbra, Portugal. This distinguished event featured a comprehensive program comprising lectures and tutorials, all centered around the pertinent theme of Sustainability within the realm of Information and Communication Technology (ICT).
 
-
 Feb ‘23: I’m lecturing a Master’s Degree Course in Software Engineering named “Topics of Software Development”. The course is focused on cross-platform development techniques, mobile platform foundations and software design approaches.
 
 Jan ‘23: I was invited to be a PC member of the SCORE contest @ ICSE 2023, to be held in Melbourne, Australia.
 
-Dec ‘22 I was invited to be a Demonstrations and Posters Session Chair @ ICT4S 2023, to be held in Rennes, France.
+Dec ‘22: I was invited to be a Demonstrations and Posters Session Chair @ ICT4S 2023, to be held in Rennes, France.
 
-Dec ‘22 I’ve finished my 3 month-long research internship @ NII, Tokyo, Japan. During these few months, I’ve investigated and developed autonomous methodologies to analyze and predict cryptocurrency market movements.
+Dec ‘22: I’ve finished my 3 month-long research internship @ NII, Tokyo, Japan. During these few months, I’ve investigated and developed autonomous methodologies to analyze and predict cryptocurrency market movements.
