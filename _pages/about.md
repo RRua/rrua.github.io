@@ -9,7 +9,9 @@ redirect_from:
     
 ---
 
-Welcome to my personal page. My name is Rui Rua and I'm currently a PhD student in the University of Minho, in the context of the MAP-I joint programme.  I characterize myself as an inventive, innovative and hardworking person, with a strong spirit of initiative. I’m a builder and a do'er. I’m always motivated to build proofs-of-concept applications and deeply explore new trends and technologies. As a researcher, I’m mostly focused on developing and improving existing software development techniques and producing knowledge aiming to optimize software products and respective source code.
+reetings, and welcome to my personal profile. My name is Rui Rua, and I am presently pursuing a doctoral degree at the University of Minho, as part of the esteemed MAP-I joint program. I characterize myself as an individual of ingenuity, innovation, and unwavering diligence, underpinned by a resolute spirit of initiative. I identify as both a creator and an achiever, consistently driven to realize proofs-of-concept applications and delve deeply into emerging trends and technologies.
+
+As a researcher, my primary focus centers on the advancement and refinement of extant software development methodologies. My overarching objective is the generation of knowledge geared towards enhancing software products and the respective source code. Through my work, I endeavor to optimize software development techniques, ultimately contributing to the evolution of this critical domain.
 
 ## Latest news
 
