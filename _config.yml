@@ -86,7 +86,7 @@ author:
   location         : "Braga, Portugal"
   employer         : "HASLab/INESC TEC"
   googlescholar    : "https://scholar.google.pt/citations?hl=pt-PT&user=NvJ7KjYAAAAJ"
-  email            : "rui.a.rua@inesctec.com"
+  email            : "rui.a.rua@inesctec.pt"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -101,7 +101,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/ruiarrua"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -114,6 +114,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  CV (pdf)         : "https://github.com/RRua/rrua.github.io/blob/master/_certifications/D314-AB94-034B-23.pdf"
 
 
 # Reading Files
