@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 
+**May '24:** I am thrilled to announce that I have successfully defended my PhD thesis! My thesis, titled "Green Software in the Large: Energy-driven Techniques, Tools and Repositories" was defended at University of Minho. 
+
+**Dec '23:** My research paper, titled "A large-scale empirical study on mobile performance: energy, run-time and memory" was published in the Volume 29 of the Empirical Software Engineering (EMSE) journal.
 
 **May '24:** I am thrilled to announce that I have successfully defended my PhD thesis! My thesis, titled "Green Software in the Large: Energy-driven Techniques, Tools and Repositories" was defended at University of Minho. 
 
