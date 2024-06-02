@@ -7,6 +7,9 @@ author_profile: true
 
 ## Teaching
 
+**2023/2024** - Software Development Topics - Master's Degree in Software Engineering *(Engenharia Informática, Universidade do Minho)* - Invited Professor
+  - Program: Cross-platform Development; Mobile-First Development; Model-Driven Development; Test-Driven Development; Software Patterns; Software Design Principles; CI/CD;
+
 **2022/2023** - Software Development Topics - Master's Degree in Software Engineering *(Engenharia Informática, Universidade do Minho)* - Invited Professor
   - Program: Cross-platform Development; Mobile-First Development; Model-Driven Development; Test-Driven Development; Software Patterns; Software Design Principles; CI/CD;
 

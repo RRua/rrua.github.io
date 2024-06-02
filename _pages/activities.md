@@ -9,6 +9,7 @@ author_profile: true
 
 ## Scientific Review and Sub-Review
 
+- IEEE Conference on Software Quality, Reliability and Security (QRS) – 2024
 - IEEE Conference on Software Quality, Reliability and Security (QRS) – 2023
 - IEEE Conference on Software Quality, Reliability and Security (QRS) – 2022
 - International Conference on ICT For Sustainability (ICT4S) - 2022
