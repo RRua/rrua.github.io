@@ -11,17 +11,9 @@ You also can find all this information on my [LinkedIn page](https://www.linkedi
 
 ## Mobile 
 
-
-[Introduction to Containers w/ Docker, Kubernetes & OpenShift]()
-IBM
+[Mobile Development and JavaScript]()  
+Coursera  
 2023
-
----
-
-[Mobile Development and JavaScript]()
-Coursera
-2023
-
 
 ---
 
@@ -66,6 +58,14 @@ LinkedIn
 [Vue JS 2 Course - The Complete Guide (incl. Vue Router & Vuex)]()  
 Udemy  
 2022
+
+## Misc
+
+[Introduction to Containers w/ Docker, Kubernetes & OpenShift]()  
+IBM  
+2023
+
+
 
 
 

@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Rui Rua"
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   bio              : "Researcher @ HASLab/INESC TEC  <br><br/>  Invited Assistant Professor @ University of Minho"
   location         : "Braga, Portugal"
   employer         :
-  googlescholar    : "https://scholar.google.pt/citations?hl=pt-PT&user=NvJ7KjYAAAAJ"
+  googlescholar    : "https://scholar.google.pt/citations?user=NvJ7KjYAAAAJ"
   email            : "rui.a.rua@inesctec.pt"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

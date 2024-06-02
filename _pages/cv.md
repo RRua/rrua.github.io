@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find more details on the [PDF version].(http://rrua.github.io/files/CV_RuiRua_24.pdf).
+You can find more details on the [PDF version](http://rrua.github.io/files/CV_RuiRua_24.pdf).
 
 Education
 ======
