@@ -21,9 +21,6 @@ Latest news (Last Update: May 2024)
 
 **Sept '23:** I am honored to announce my forthcoming participation in the 39th IEEE International Conference on Software Maintenance and Evolution (ICSME '23), scheduled to take place in Bogotá, Colombia. My purpose in attending this prestigious event is twofold: to present a research paper and to augment my knowledge within the field.
 
-**Sept '23:** I am honored to announce my forthcoming participation in the 39th IEEE International Conference on Software Maintenance and Evolution (ICSME '23), scheduled to take place in Bogotá, Colombia. My purpose in attending this prestigious event is twofold: to present a research paper and to augment my knowledge within the field.
-
-
 [View more...](https://rrua.github.io/news)
 
 
