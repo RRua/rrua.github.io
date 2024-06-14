@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-You can find more details on the [PDF version](http://rrua.github.io/files/CV_RuiRua_24.pdf).
+You can learn more about me by exploring my [OS-like, GUI-based curriculum interface](http://rrua.github.io/terminal_cv).
+
+You can also find more details on the [PDF version](http://rrua.github.io/files/CV_RuiRua_24.pdf).
 
 Education
 ======
