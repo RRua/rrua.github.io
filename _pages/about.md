@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal profile. My name is Rui Rua, and I am presently pursuing a doctoral degree at the University of Minho, as part of the MAP-I joint program. I characterize myself as an individual of innovation and unwavering diligence, underpinned by a resolute spirit of initiative. I identify as both a creator and an achiever, consistently driven to realize proofs-of-concept applications and delve deeply into emerging trends and technologies.
+Welcome to my personal profile. My name is Rui Rua, and I am a PhD in Computer Science. I characterize myself as an individual of innovation and unwavering diligence, underpinned by a resolute spirit of initiative. I identify as both a creator and an achiever, consistently driven to realize proofs-of-concept applications and delve deeply into emerging trends and technologies.
 
-As a researcher, my primary focus is on advancing and refining software development and maintenance methodologies. My main objective is to generate knowledge that enhances software products and their source code through the use of automated software analysis techniques.
+As a scientist, my primary focus is on advancing and refining software development and maintenance methodologies. My main objective is to generate knowledge that enhances software products and their source code through the use of automated software analysis techniques.
 
 
 Latest news (Last Update: May 2024)
