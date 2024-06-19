@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can learn more about me by exploring my [OS-like, GUI-based curriculum interface](http://rrua.github.io/terminal_cv).
+You can learn more about me by exploring my [OS-like, GUI-based curriculum interface](http://rrua.github.io/cv_os).
 
 You can also find more details on the [PDF version](http://rrua.github.io/files/CV_RuiRua_24.pdf).
 
