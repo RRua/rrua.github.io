@@ -13,11 +13,7 @@ As a scientist, my primary focus is on advancing and refining software developme
 
 
 Latest news (Last Update: Nov 2024)
-
 ======
-Here's a revised version of your updates:
-
----
 
 **November 2024**: I’m excited to share that I am joining NYU Abu Dhabi as a Postdoctoral Researcher.  
 
