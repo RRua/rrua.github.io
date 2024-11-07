@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal profile! I’m Rui Rua, currently working as a Postdoctoral Researcher at NYU Abu Dhabi. I characterize myself as an individual of innovation and unwavering diligence, underpinned by a resolute spirit of initiative. I identify as both a creator and an achiever, consistently driven to realize proofs-of-concept applications and delve deeply into emerging trends and technologies.
+Welcome to my personal profile! I’m Rui Rua, and I'm a Postdoctoral Researcher at NYU Abu Dhabi. I characterize myself as an individual of innovation and unwavering diligence, underpinned by a resolute spirit of initiative. I identify as both a creator and an achiever, consistently driven to realize proofs-of-concept applications and delve deeply into emerging trends and technologies.
 
 As a scientist, my primary focus is on advancing and refining software development and maintenance methodologies. My main objective is to generate knowledge that enhances software products and their source code through the use of automated software analysis techniques.
 
@@ -31,7 +31,7 @@ Latest news (Last Update: Nov 2024)
 Current Status
 ======
 
-I'm currently working as an Invited Assistant Professor at University of Minho, Braga. I'm also working as an external researcher at HASLab/INESC TEC.
+I'm currently working as a Postdoctoral Researcher at NYU Abu Dhabi. I'm also working as an external researcher at HASLab/INESC TEC.
 
 
 Main Research Interests
