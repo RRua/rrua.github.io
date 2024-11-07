@@ -6,6 +6,14 @@ author_profile: true
 ---
 
 
+**November 2024**: I’m excited to share that I am joining NYU Abu Dhabi as a Postdoctoral Researcher.  
+
+**August 2024**: I served on the Program Committee for the Artifact Evaluation track at the International Conference on Software Language Engineering (SLE AE 2024).
+
+**August 2024**: I completed a 17-day visit to Professor Rodrigo Almeida at the University of Brasília (UnB) as part of a Short-Term Scientific Mission funded by Cerciras (CA19135). This visit focused on collaborative knowledge exchange with researchers from academia and industry and initiating a research project to evaluate the Performance Overhead of Software Tracing methods for Android applications.
+
+**July 2024**: I presented my research at the 3rd Workshop on Resource Awareness of Systems and Society (RAW 2024) in Maribor, Slovenia. This workshop convened educators, researchers, and industry professionals to discuss solutions and challenges in resource-aware computing.
+
 **May '24:** I am thrilled to announce that I have successfully defended my PhD thesis! My thesis, titled "Green Software in the Large: Energy-driven Techniques, Tools and Repositories" was defended at University of Minho. 
 
 **Dec '23:** My research paper, titled "A large-scale empirical study on mobile performance: energy, run-time and memory" was published in the Volume 29 of the Empirical Software Engineering (EMSE) journal.
