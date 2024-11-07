@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Rui Rua"
 title_separator          : "-"
 name                     : &name "Rui Rua"
-description              : &description "Researcher @ HASLab / INESC TEC"
+description              : &description "Postdoctoral Researcher @ NYU Abu Dhabi"
 url                      : https://rrua.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rrua/rrua.github.io"
@@ -83,10 +83,10 @@ author:
   name             : "Rui Rua"
   avatar           : "profile.png"
   bio              : "Researcher @ HASLab/INESC TEC  <br><br/>  Invited Assistant Professor @ University of Minho"
-  location         : "Braga, Portugal"
+  location         : "Abu Dhabi, UAE / Braga, Portugal"
   employer         :
   googlescholar    : "https://scholar.google.pt/citations?user=NvJ7KjYAAAAJ"
-  email            : "rui.a.rua@inesctec.pt"
+  email            : "rar9993 at nyu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
