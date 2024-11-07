@@ -29,10 +29,6 @@ Here's a revised version of your updates:
 
 **May '24:** I am thrilled to announce that I have successfully defended my PhD thesis! My thesis, titled "Green Software in the Large: Energy-driven Techniques, Tools and Repositories" was defended at University of Minho. 
 
-**Dec '23:** My research paper, titled "A large-scale empirical study on mobile performance: energy, run-time and memory" was published in the Volume 29 of the Empirical Software Engineering (EMSE) journal.
-
-**Sept '23:** I am honored to announce my forthcoming participation in the 39th IEEE International Conference on Software Maintenance and Evolution (ICSME '23), scheduled to take place in Bogotá, Colombia. My purpose in attending this prestigious event is twofold: to present a research paper and to augment my knowledge within the field.
-
 [View more...](https://rrua.github.io/news)
 
 
