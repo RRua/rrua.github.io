@@ -7,10 +7,31 @@ author_profile: true
 
  You can also find my articles on my [Google Scholar profile](https://scholar.google.pt/citations?user=NvJ7KjYAAAAJ).
 
-## 2023
 
----
----
+
+## 2026
+
+- [Magnifying Inefficiency: How LLMs Amplify Performance Anti-Patterns in Mobile Development](https://sanadlab.org/assets/pdf/RuaJAW26.pdf)  
+ Rui Rua, Karim Ali
+In the 1st Journal Ahead Workshop (JAWs) 2026, co-located with the 48th International Conference on Software Engineering,  ICSE 2026.
+
+--- 
+
+- [InstruMate: A Systematic Framework for Assessing Android App Repackaging Resilience](https://sanadlab.org/assets/pdf/Instrumate26.pdf)  
+Leandro de Souza Oliveira, Rodrigo Bonifácio, Joanna C. S. Santos, Rui Rua
+In the 33th IEEE International Conference on Software Analysis, Evolution and Reengineering, SANER 2026
+
+--- 
+
+## 2025 
+
+- [BuilDroid: A Self-Correcting LLM Agent for Automated Android Builds](https://sanadlab.org/assets/pdf/JaeASE25.pdf)  
+Jaehyeon Kim, Rui Rua, Karim Ali
+In the 40th IEEE/ACM International Conference on Automated Software Engineering, ASE 2025.
+
+--- 
+
+## 2023
 
 - **[Journal]** [A large-scale empirical study on mobile performance: Energy, Run-time and Memory]()  
 Rui Rua, Rui Pereira, João Saraiva  
@@ -23,13 +44,10 @@ Rui Rua, João Saraiva
 In the 39th IEEE International Conference on Software Maintenance and Evolution
 
 ---
----
 
 
 ## 2022
 
----
----
 
 - [E-MANAFA: Energy Monitoring and ANAlysis tool For Android](https://github.com/RRua/rrua.github.io/blob/master/_publications/ASEW_22_Manafa.pdf)  
 Rui Rua, João Saraiva  
@@ -48,23 +66,17 @@ Marco Couto, Rui Rua, João Saraiva
 Lecture Notes in Computer Science (LNCS) - Sustrainable 2023 - **Submitted**
 
 ---
----
 
 ## 2021
 
----
----
 - **[Journal]** [Ranking Programming Languages by Energy Efficiency](http://states.github.io/files/j2.pdf)  
 Rui Pereira, Marco Couto, Francisco Ribeiro, Rui Rua, Jácome Cunha, João Paulo Fernandes, João Saraiva  
 In Journal of Science of Computer Programming 
 
 ---
----
 
 ## 2020
 
----
----
 
 - **[Book Chapter]** Compilers going Green - An empirical evaluation of functional language performance    
 José Nuno Macedo, Francisco Ribeiro, Rui Rua, Marco Couto, Jácome Cunha, João P. Fernandes, João Saraiva, Rui Pereira    
@@ -77,12 +89,9 @@ Rui Rua, Tiago Fraga, Marco Couto, João Saraiva
 In the IEEE/ACM 7th International Conference on Mobile Software Engineering and Systems (MOBILESOFT)
 
 ---
----
 
 ## 2019
 
----
----
 
 - [Towards using Memoization for Saving Energy in Android](https://web.fe.up.pt/~jacome/downloads/CIBSE19b.pdf)  
 Rui Rua, Marco Couto, Jácome Cunha, João Saraiva  
@@ -95,12 +104,9 @@ Rui Rua, Marco Couto, João Saraiva
 In the 16th International Conference on Mining Software Repositories (MSR)
 
 ---
----
 
 ## 2017
 
----
----
 
 - [Energy Efficiency across Programming Languages: How does energy, time, and memory relate?](http://states.github.io/files/p17.pdf)   
 Rui Pereira, Marco Couto, Francisco Ribeiro, Rui Rua, Jácome Cunha, João P. Fernandes, João Saraiva
@@ -112,3 +118,5 @@ In 10th *International Conference on Software Language Engineering* (SLE’17)
 Marco Couto, Rui Pereira, Francisco Ribeiro, Rui Rua, João Saraiva  
 In 21st *Brazilian Symposium on Programming Languages* (SBLP’17)  
 **Best Paper Award**
+
+---

@@ -6,6 +6,16 @@ author_profile: true
 ---
 
 
+**Feb 2026**: Our research paper titled *“Magnifying Inefficiency: How LLMs Amplify Performance Anti-Patterns in Mobile Development”* was accepted at the Journal Ahead Workshop (JAWs) 2026, co-located with ICSE ’26, to be held in Rio de Janeiro, Brazil. The paper was also invited for an extended version submission to the renowned ACM TOSEM journal.  
+
+**Dec 2025**: Our research paper titled *“InstruMate: A Systematic Framework for Assessing Android App Repackaging Resilience”* was accepted at SANER ’26, to be held in Limassol, Cyprus.  
+
+**Nov 2025**: I had the pleasure of participating in the international conference ASE 2025, where I was able to share and gain knowledge through numerous discussions with the vibrant software engineering community.  
+
+**Sept 2025**: Our research paper titled *“BuilDroid: A Self-Correcting LLM Agent for Automated Android Builds”* was accepted at ASE ’25, to be held in Seoul, South Korea.  
+
+**Aug 2025**: I had the pleasure of serving as a member of the examination committee for the master’s qualification and thesis defense of Leandro Oliveira at the University of Brasília (UnB). I wish the candidate all the best in his future endeavors.  
+
 **November 2024**: I’m excited to share that I am joining NYU Abu Dhabi as a Postdoctoral Researcher.  
 
 **August 2024**: I served on the Program Committee for the Artifact Evaluation track at the International Conference on Software Language Engineering (SLE AE 2024).

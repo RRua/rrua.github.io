@@ -34,6 +34,9 @@ author_profile: true
 - *Workshop:* Analyzing energy consumption on Mobile Devices (Coimbra, 2022)
 
 ## Participation / Attendance
+
+- IEEE/ACM International Conference on Software Engineering (ICSE) - Rio de Janeiro, Brazil - 2026
+- IEEE/ACM International Conference on Automated Software Engineering (ASE) - Seoul, South Korea - 2025
 - IEEE International Conference on Software Maintenance and Evolution (ICSME), Bogotá, Colombia - 2023
 - CERCIRAS Training School 2023 - Riga, Latvia - 2023
 - CERCIRAS Training School 2023 - Riga, Latvia - 2023
@@ -44,3 +47,5 @@ author_profile: true
 - IEEE/ACM International Conference on Mobile Software Engineering and Systems (MOBILESOFT) - Montreal, Canada - 2019
 - The three "CO" (Composability, Comprehensibility, Correctness) Summer School - Budapest, Hungary - 2019
 - The three “CO” (Composability, Comprehensibility, Correctness) Winter School - Kosice, Slovakia - 2018
+
+

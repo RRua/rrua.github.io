@@ -37,6 +37,10 @@ author_profile: true
 
 2022 - Márcia Teixeira - How Green is your Blockchain - co-supervisor, with Prof. João Saraiva 
 
+2024 - Catarina Gonçalves - ProefOnSite: Aplicação de planeamento e monitorização das atividades das equipas técnicas da Proef - co-supervisor, with Prof. João Saraiva 
+
+2025 - Gonçalo Oliveira - Development of an AI Plugin for Detecting and Correcting Performance Bugs in the Android Ecosystem  - co-supervisor, with Prof. João Saraiva 
+
 
 ## BSc projects - Supervision
 
