@@ -1,0 +1,8 @@
+<li class="pub">
+  <span class="pub__title">{% if include.pub.url %}<a href="{{ include.pub.url }}">{{ include.pub.title }}</a>{% else %}{{ include.pub.title }}{% endif %}</span>
+  {% if include.pub.type %}<span class="tag">{{ include.pub.type }}</span>{% endif %}
+  {% if include.pub.award %}<span class="tag tag--award">{{ include.pub.award }}</span>{% endif %}
+  {% if include.pub.note %}<span class="tag">{{ include.pub.note }}</span>{% endif %}
+  <span class="pub__authors">{{ include.pub.authors | replace: "Rui Rua", "<strong>Rui Rua</strong>" }}</span>
+  <span class="pub__venue">{{ include.pub.venue }}{% if include.show_year %}, {{ include.pub.year }}{% endif %}</span>
+</li>

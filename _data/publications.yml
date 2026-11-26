@@ -1,0 +1,109 @@
+# One entry per publication, newest first.
+# Fields: title, authors, venue, year. Optional: url, type, award, note, selected.
+# "selected: true" shows the entry on the home page.
+
+- title: "Magnifying Inefficiency: How LLMs Amplify Performance Anti-Patterns in Mobile Development"
+  authors: "Rui Rua, Karim Ali"
+  venue: "1st Journal Ahead Workshop (JAWs 2026), co-located with the 48th International Conference on Software Engineering (ICSE 2026)"
+  year: 2026
+  url: "https://sanadlab.org/assets/pdf/RuaJAW26.pdf"
+  selected: true
+
+- title: "InstruMate: A Systematic Framework for Assessing Android App Repackaging Resilience"
+  authors: "Leandro de Souza Oliveira, Rodrigo Bonifácio, Joanna C. S. Santos, Rui Rua"
+  venue: "33rd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2026)"
+  year: 2026
+  url: "https://sanadlab.org/assets/pdf/Instrumate26.pdf"
+  selected: true
+
+- title: "BuilDroid: A Self-Correcting LLM Agent for Automated Android Builds"
+  authors: "Jaehyeon Kim, Rui Rua, Karim Ali"
+  venue: "40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)"
+  year: 2025
+  url: "https://sanadlab.org/assets/pdf/JaeASE25.pdf"
+  selected: true
+
+- title: "Green Software in the Large: Energy-driven Techniques, Tools and Repositories"
+  authors: "Rui Rua"
+  venue: "University of Minho"
+  year: 2024
+  type: "PhD thesis"
+
+- title: "A large-scale empirical study on mobile performance: Energy, Run-time and Memory"
+  authors: "Rui Rua, Rui Pereira, João Saraiva"
+  venue: "Empirical Software Engineering (EMSE), Volume 29"
+  year: 2023
+  type: "Journal"
+  selected: true
+
+- title: "PyAnaDroid: A fully-customizable execution pipeline for benchmarking Android Applications"
+  authors: "Rui Rua, João Saraiva"
+  venue: "39th IEEE International Conference on Software Maintenance and Evolution (ICSME 2023), Tool Demo track"
+  year: 2023
+  url: "https://doi.org/10.1109/ICSME58846.2023.00077"
+  award: "Open Research Object badge"
+
+- title: "E-MANAFA: Energy Monitoring and ANAlysis tool For Android"
+  authors: "Rui Rua, João Saraiva"
+  venue: "5th International Workshop on Advances in Mobile App Analysis (A-Mobile)"
+  year: 2022
+  url: "https://github.com/RRua/rrua.github.io/blob/master/_publications/ASEW_22_Manafa.pdf"
+
+- title: "Energy Efficiency of Web Browsers in the Android Ecosystem"
+  authors: "Nelson Gonçalves, Rui Rua, Jácome Cunha, Rui Pereira, João Saraiva"
+  venue: "2022 Workshop on Resource AWareness of Systems and Society (RAW)"
+  year: 2022
+  url: "https://arxiv.org/pdf/2205.11399"
+
+- title: "Energy Debt: Foundations, techniques and Tools"
+  authors: "Marco Couto, Rui Rua, João Saraiva"
+  venue: "Lecture Notes in Computer Science (LNCS) - Sustrainable 2023"
+  year: 2022
+  type: "Book chapter"
+  note: "Submitted"
+
+- title: "Ranking Programming Languages by Energy Efficiency"
+  authors: "Rui Pereira, Marco Couto, Francisco Ribeiro, Rui Rua, Jácome Cunha, João Paulo Fernandes, João Saraiva"
+  venue: "Journal of Science of Computer Programming"
+  year: 2021
+  url: "http://states.github.io/files/j2.pdf"
+  type: "Journal"
+
+- title: "Compilers going Green - An empirical evaluation of functional language performance"
+  authors: "José Nuno Macedo, Francisco Ribeiro, Rui Rua, Marco Couto, Jácome Cunha, João P. Fernandes, João Saraiva, Rui Pereira"
+  venue: "Lecture Notes in Computer Science (LNCS) - Composability, Comprehensibility, and Correctness (3COWS)"
+  year: 2020
+  type: "Book chapter"
+  note: "Submitted"
+
+- title: "Greenspecting Android Virtual Keyboards"
+  authors: "Rui Rua, Tiago Fraga, Marco Couto, João Saraiva"
+  venue: "IEEE/ACM 7th International Conference on Mobile Software Engineering and Systems (MOBILESOFT)"
+  year: 2020
+  url: "https://repositorium.sdum.uminho.pt/bitstream/1822/68617/1/MobileSoftKeyboards-28.pdf"
+
+- title: "Towards using Memoization for Saving Energy in Android"
+  authors: "Rui Rua, Marco Couto, Jácome Cunha, João Saraiva"
+  venue: "22nd Ibero-American Conference on Software Engineering (CIbSE)"
+  year: 2019
+  url: "https://web.fe.up.pt/~jacome/downloads/CIBSE19b.pdf"
+
+- title: "GreenSource: a large-scale collection of Android code, tests and energy metrics"
+  authors: "Rui Rua, Marco Couto, João Saraiva"
+  venue: "16th International Conference on Mining Software Repositories (MSR)"
+  year: 2019
+  url: "https://repositorium.sdum.uminho.pt/bitstream/1822/68619/4/GreenSource-MSR2019-Proceedings.pdf"
+
+- title: "Energy Efficiency across Programming Languages: How does energy, time, and memory relate?"
+  authors: "Rui Pereira, Marco Couto, Francisco Ribeiro, Rui Rua, Jácome Cunha, João P. Fernandes, João Saraiva"
+  venue: "10th International Conference on Software Language Engineering (SLE'17)"
+  year: 2017
+  url: "http://states.github.io/files/p17.pdf"
+  selected: true
+
+- title: "Towards a green ranking for programming languages"
+  authors: "Marco Couto, Rui Pereira, Francisco Ribeiro, Rui Rua, João Saraiva"
+  venue: "21st Brazilian Symposium on Programming Languages (SBLP'17)"
+  year: 2017
+  url: "http://states.github.io/files/p16.pdf"
+  award: "Best Paper Award"

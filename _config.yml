@@ -69,6 +69,9 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://scholar.google.pt/citations?user=NvJ7KjYAAAAJ"
+    - "https://github.com/rrua"
+    - "https://www.linkedin.com/in/ruiarrua"
 
 
 # Analytics
@@ -81,7 +84,7 @@ analytics:
 # Site Author
 author:
   name             : "Rui Rua"
-  avatar           : "profile.png"
+  avatar           : "avatar.jpg"
   bio              : "Postdoctoral Researcher @ NYU Abu Dhabi"
   location         : "Abu Dhabi, UAE / Braga, Portugal"
   employer         :
@@ -101,7 +104,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/ruiarrua"
+  linkedin         : "ruiarrua"
   orcid            :
   pinterest        :
   soundcloud       :
@@ -255,7 +258,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Dubai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
